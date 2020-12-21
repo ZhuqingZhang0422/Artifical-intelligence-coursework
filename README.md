@@ -1,6 +1,6 @@
 # Artifical-intelligence-coursework
 
-###This repository contains course project code for COMP 557 Artificial Intelligence. Materials covers topics of:
+### This repository contains course project code for COMP 557 Artificial Intelligence. Materials covers topics of:
 
 1. General search
 	Pacman Project
