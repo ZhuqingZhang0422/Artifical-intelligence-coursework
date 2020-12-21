@@ -1,27 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="46ad0b2c-1eac-4a48-a80a-5b0b3c17200f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/VERSION" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/autograder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/ghostAgents.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/grading.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/graphicsDisplay.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/graphicsUtils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/keyboardAgents.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/layout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/multiAgents.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/multiAgents_partner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/multiagentTestClasses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/pacman.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/pacmanAgents.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/projectParams.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/submission_autograder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/testClasses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/testParser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/textDisplay.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +30,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Pacman-search algorithm" />
+      <recent name="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -51,6 +47,14 @@
       <option name="presentableId" value="Default" />
       <updated>1608519973517</updated>
     </task>
+    <task id="LOCAL-00001" summary="Feat: Added Search algorithm material, PACMAN project with single and multiple agents">
+      <created>1608520761748</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608520761748</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -63,5 +67,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Feat: Added Search algorithm material, PACMAN project with single and multiple agents" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: Added Search algorithm material, PACMAN project with single and multiple agents" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1180" y="61" key="Vcs.Push.Dialog.v2" timestamp="1608520783357">
+      <screen x="-1360" y="0" width="1360" height="768" />
+    </state>
+    <state x="-1180" y="61" key="Vcs.Push.Dialog.v2/-1360.0.1360.768/0.0.1440.900@-1360.0.1360.768" timestamp="1608520783357" />
   </component>
 </project>
