@@ -10,9 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46ad0b2c-1eac-4a48-a80a-5b0b3c17200f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="46ad0b2c-1eac-4a48-a80a-5b0b3c17200f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +30,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Zebra problem-CSPs" />
+      <recent name="$PROJECT_DIR$/N-queens problem-CSPs" />
       <recent name="$PROJECT_DIR$/Pacman-search algorithm" />
       <recent name="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent" />
     </key>
@@ -54,7 +55,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608520761748</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Feat: Added materials for CSPs - Course schedule, N-queens problem and zebra problem">
+      <created>1608521972429</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608521972429</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,10 +75,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Feat: Added Search algorithm material, PACMAN project with single and multiple agents" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: Added Search algorithm material, PACMAN project with single and multiple agents" />
+    <MESSAGE value="Feat: Added materials for CSPs - Course schedule, N-queens problem and zebra problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: Added materials for CSPs - Course schedule, N-queens problem and zebra problem" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1180" y="61" key="Vcs.Push.Dialog.v2" timestamp="1608520783357">

@@ -1,0 +1,35 @@
+maxTotalPoints: 50
+messages: []
+mode: all
+parts:
+- maxPoints: 10
+  maxSeconds: 1
+  messages: []
+  name: 5.1a-0
+  points: 10
+  seconds: 0
+- maxPoints: 10
+  maxSeconds: 1
+  messages: []
+  name: 5.2a-0
+  points: 10
+  seconds: 0
+- maxPoints: 10
+  maxSeconds: 1
+  messages: []
+  name: 5.3a-0
+  points: 10
+  seconds: 0
+- maxPoints: 10
+  maxSeconds: 1
+  messages: []
+  name: 5.3a-1
+  points: 10
+  seconds: 0
+- maxPoints: 10
+  maxSeconds: 1
+  messages: []
+  name: 5.3a-2
+  points: 10
+  seconds: 0
+totalPoints: 50
