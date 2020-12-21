@@ -32,11 +32,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Image classification-supervised learning" />
+      <recent name="$PROJECT_DIR$/Spam classification-supervised learning" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Zebra problem-CSPs" />
       <recent name="$PROJECT_DIR$/N-queens problem-CSPs" />
-      <recent name="$PROJECT_DIR$/Pacman-search algorithm" />
-      <recent name="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -71,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608522211239</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Feat: Added materials for supervised machine learning, text classification and image classification">
+      <created>1608528989230</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608528989230</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,17 +97,18 @@
     <MESSAGE value="Feat: Added Search algorithm material, PACMAN project with single and multiple agents" />
     <MESSAGE value="Feat: Added materials for CSPs - Course schedule, N-queens problem and zebra problem" />
     <MESSAGE value="Feat: Added materials for Baysian network and HMMs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: Added materials for Baysian network and HMMs" />
+    <MESSAGE value="Feat: Added materials for supervised machine learning, text classification and image classification" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: Added materials for supervised machine learning, text classification and image classification" />
   </component>
   <component name="WindowStateProjectService">
     <state x="444" y="177" key="RollbackChangesDialog" timestamp="1608522187709">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="444" y="177" key="RollbackChangesDialog/-1920.-49.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1608522187709" />
-    <state x="191" y="71" key="Vcs.Push.Dialog.v2" timestamp="1608522221792">
+    <state x="191" y="71" key="Vcs.Push.Dialog.v2" timestamp="1608529000681">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="-1180" y="61" key="Vcs.Push.Dialog.v2/-1360.0.1360.768/0.0.1440.900@-1360.0.1360.768" timestamp="1608520783357" />
-    <state x="191" y="71" key="Vcs.Push.Dialog.v2/-1920.-49.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1608522221792" />
+    <state x="191" y="71" key="Vcs.Push.Dialog.v2/-1920.-49.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1608529000681" />
   </component>
 </project>
