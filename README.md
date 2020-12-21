@@ -3,8 +3,8 @@
 ### This repository contains course project code for COMP 557 Artificial Intelligence. Materials covers topics of:
 
 1. General search
-* Pacman Project
-+ SingleAgent — DFS,BFS, A*search
+   * Pacman Project
+    + SingleAgent — DFS,BFS, A*search
 
 2. MDPs
 	Pacman Project
