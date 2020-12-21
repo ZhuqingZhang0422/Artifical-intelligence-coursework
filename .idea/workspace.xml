@@ -83,7 +83,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608592149925</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Feat:Added Spam classfication and image classification projects">
+      <created>1608592190657</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608592190657</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Feat:Added Spam classfication and image classification projects">
+      <created>1608592442815</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608592442815</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,10 +125,16 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="444" y="177" key="RollbackChangesDialog/-1920.-49.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1608522187709" />
-    <state x="191" y="71" key="Vcs.Push.Dialog.v2" timestamp="1608529000681">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="225" y="92" key="Vcs.Push.Dialog.v2" timestamp="1608592459489">
+      <screen x="39" y="23" width="1401" height="877" />
     </state>
     <state x="-1180" y="61" key="Vcs.Push.Dialog.v2/-1360.0.1360.768/0.0.1440.900@-1360.0.1360.768" timestamp="1608520783357" />
     <state x="191" y="71" key="Vcs.Push.Dialog.v2/-1920.-49.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1608529000681" />
+    <state x="225" y="92" key="Vcs.Push.Dialog.v2/1440.-16.1920.1057/39.23.1401.877@39.23.1401.877" timestamp="1608592459489" />
+    <state x="191" y="71" key="Vcs.Push.Dialog.v2/1440.-39.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1608592200268" />
+    <state x="458" y="191" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1608592121838">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="191" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/1440.-39.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1608592121838" />
   </component>
 </project>
