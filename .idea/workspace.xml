@@ -10,9 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46ad0b2c-1eac-4a48-a80a-5b0b3c17200f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="46ad0b2c-1eac-4a48-a80a-5b0b3c17200f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608528989230</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Feat:Added Spam classfication and image classification projects">
+      <created>1608592149925</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608592149925</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,7 +103,8 @@
     <MESSAGE value="Feat: Added materials for CSPs - Course schedule, N-queens problem and zebra problem" />
     <MESSAGE value="Feat: Added materials for Baysian network and HMMs" />
     <MESSAGE value="Feat: Added materials for supervised machine learning, text classification and image classification" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: Added materials for supervised machine learning, text classification and image classification" />
+    <MESSAGE value="Feat:Added Spam classfication and image classification projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat:Added Spam classfication and image classification projects" />
   </component>
   <component name="WindowStateProjectService">
     <state x="444" y="177" key="RollbackChangesDialog" timestamp="1608522187709">
