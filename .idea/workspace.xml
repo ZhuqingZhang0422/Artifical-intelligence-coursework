@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46ad0b2c-1eac-4a48-a80a-5b0b3c17200f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/VERSION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/autograder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/ghostAgents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/grading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/graphicsDisplay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/graphicsUtils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/keyboardAgents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/layout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/multiAgents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/multiAgents_partner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/multiagentTestClasses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/pacman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/pacmanAgents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/projectParams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/submission_autograder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/testClasses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/testParser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/textDisplay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pacman-search algorithm/Single_Agent/util.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lwtRcTah4CFV4SeTsG25HtS0WJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46ad0b2c-1eac-4a48-a80a-5b0b3c17200f" name="Default Changelist" comment="" />
+      <created>1608519973517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608519973517</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
